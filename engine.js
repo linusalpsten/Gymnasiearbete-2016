@@ -69,3 +69,5 @@ setInterval(function(){ //kallar på funktioner 10 gånger per sekund för att u
 },100);
 
 //du kan ändra på kamerans/cam position i konsollen på sidan för att kunna se triangeln från olika håll/vinklar och avstånd.
+
+//test
